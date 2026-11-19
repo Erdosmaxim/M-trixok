@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Mátrixok/Mátrixok.csproj" />
+  <Project Path="íjászverseny/íjászverseny.csproj" />
 </Solution>
